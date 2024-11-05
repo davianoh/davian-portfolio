@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/davian-portfolio/static/css/main.ad306113.css",
-    "main.js": "/davian-portfolio/static/js/main.406657eb.js",
+    "main.js": "/davian-portfolio/static/js/main.99b5863f.js",
     "static/js/453.79cb756f.chunk.js": "/davian-portfolio/static/js/453.79cb756f.chunk.js",
     "static/media/color-sharp.png": "/davian-portfolio/static/media/color-sharp.bea361cfef80fefc2d1e.png",
     "static/media/color-sharp2.png": "/davian-portfolio/static/media/color-sharp2.c87586c6c2f549cb4aa6.png",
@@ -31,11 +31,11 @@
     "static/media/nav-icon-x.svg": "/davian-portfolio/static/media/nav-icon-x.37b30c8af118fd1f4971d4e343b9ba0c.svg",
     "static/media/nav-icon2.svg": "/davian-portfolio/static/media/nav-icon2.178f497aa17b70c42df2a1a8c926ed01.svg",
     "main.ad306113.css.map": "/davian-portfolio/static/css/main.ad306113.css.map",
-    "main.406657eb.js.map": "/davian-portfolio/static/js/main.406657eb.js.map",
+    "main.99b5863f.js.map": "/davian-portfolio/static/js/main.99b5863f.js.map",
     "453.79cb756f.chunk.js.map": "/davian-portfolio/static/js/453.79cb756f.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.ad306113.css",
-    "static/js/main.406657eb.js"
+    "static/js/main.99b5863f.js"
   ]
 }
