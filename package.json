@@ -1,6 +1,6 @@
 {
-  "homepage": "https://davianoh.github.io/personal-portfolio", 
-  "name": "personal-portfolio",
+  "homepage": "https://davianoh.github.io/davian-portfolio", 
+  "name": "davian-portfolio",
   "version": "0.1.0",
   "private": true,
   "dependencies": {

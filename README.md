@@ -1,5 +1,5 @@
 # Davian's Data Scientist Portfolio Website
-This project is a react app that shows you my skills and experties as a Data Scientist. You can find tons of informations about me including skills, past experiences & projects, written articles, and how to contact me. This portfolio website is live at <br></br> https://davianoh.github.io/personal-portfolio/
+This project is a react app that shows you my skills and experties as a Data Scientist. You can find tons of informations about me including skills, past experiences & projects, written articles, and how to contact me. This portfolio website is live at <br></br> https://davianoh.github.io/davian-portfolio/
 
 ### References & Credits
 Many of my works were based on other people's tutorials, open projects, and youtube tutorials. Some of them are: 
