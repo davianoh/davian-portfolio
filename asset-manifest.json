@@ -1,13 +1,16 @@
 {
   "files": {
-    "main.css": "/davian-portfolio/static/css/main.ad306113.css",
-    "main.js": "/davian-portfolio/static/js/main.99b5863f.js",
-    "static/js/453.79cb756f.chunk.js": "/davian-portfolio/static/js/453.79cb756f.chunk.js",
+    "main.css": "/davian-portfolio/static/css/main.460e91c0.css",
+    "main.js": "/davian-portfolio/static/js/main.0d86bfed.js",
+    "static/js/453.a6c89bd1.chunk.js": "/davian-portfolio/static/js/453.a6c89bd1.chunk.js",
+    "static/media/computer-science-end.png": "/davian-portfolio/static/media/computer-science-end.569373fdb9cf1c843af3.png",
     "static/media/color-sharp.png": "/davian-portfolio/static/media/color-sharp.bea361cfef80fefc2d1e.png",
     "static/media/color-sharp2.png": "/davian-portfolio/static/media/color-sharp2.c87586c6c2f549cb4aa6.png",
     "static/media/dav-japan.png": "/davian-portfolio/static/media/dav-japan.b971eca1519c891695a6.png",
+    "static/media/store-profit-visualization.png": "/davian-portfolio/static/media/store-profit-visualization.ae2011f0a1b74578f96e.png",
     "static/media/banner-bg.png": "/davian-portfolio/static/media/banner-bg.cc1273af450504afe755.png",
     "static/media/header-img.svg": "/davian-portfolio/static/media/header-img.84bf93eb20488a753440bf83d27db7bb.svg",
+    "static/media/its-informatika-building.jpg": "/davian-portfolio/static/media/its-informatika-building.a0350c3a551dd44175c9.jpg",
     "static/media/CentraNo2-Bold.ttf": "/davian-portfolio/static/media/CentraNo2-Bold.2faff7f7d3fc92a2fcd9.ttf",
     "static/media/CentraNo2-Medium.ttf": "/davian-portfolio/static/media/CentraNo2-Medium.f94be5b326d78bb32b95.ttf",
     "static/media/CentraNo2-Book.ttf": "/davian-portfolio/static/media/CentraNo2-Book.2b143fa4b734a3584043.ttf",
@@ -30,12 +33,12 @@
     "static/media/arrow1.svg": "/davian-portfolio/static/media/arrow1.0c89b5b635adf255c2822c630aaa6ccf.svg",
     "static/media/nav-icon-x.svg": "/davian-portfolio/static/media/nav-icon-x.37b30c8af118fd1f4971d4e343b9ba0c.svg",
     "static/media/nav-icon2.svg": "/davian-portfolio/static/media/nav-icon2.178f497aa17b70c42df2a1a8c926ed01.svg",
-    "main.ad306113.css.map": "/davian-portfolio/static/css/main.ad306113.css.map",
-    "main.99b5863f.js.map": "/davian-portfolio/static/js/main.99b5863f.js.map",
-    "453.79cb756f.chunk.js.map": "/davian-portfolio/static/js/453.79cb756f.chunk.js.map"
+    "main.460e91c0.css.map": "/davian-portfolio/static/css/main.460e91c0.css.map",
+    "main.0d86bfed.js.map": "/davian-portfolio/static/js/main.0d86bfed.js.map",
+    "453.a6c89bd1.chunk.js.map": "/davian-portfolio/static/js/453.a6c89bd1.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.ad306113.css",
-    "static/js/main.99b5863f.js"
+    "static/css/main.460e91c0.css",
+    "static/js/main.0d86bfed.js"
   ]
 }
