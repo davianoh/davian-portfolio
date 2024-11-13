@@ -5,7 +5,14 @@ import Carousel from 'react-multi-carousel';
 import 'react-multi-carousel/lib/styles.css';
 import arrow1 from "../assets/img/arrow1.svg";
 import arrow2 from "../assets/img/arrow2.svg";
-import colorSharp from "../assets/img/color-sharp.png"
+import colorSharp from "../assets/img/color-sharp.png";
+
+import skill1 from "../assets/img/skills/pytorch-ar21-white.svg";
+import skill2 from "../assets/img/skills/tensorflow-ar21-fix.svg";
+import skill3 from "../assets/img/skills/google_bigquery-ar21-fix.svg";
+import skill4 from "../assets/img/skills/tableau.svg";
+import skill5 from "../assets/img/skills/opencv-ar21-white.svg";
+
 
 export const Skills = () => {
   const responsive = {
@@ -38,20 +45,19 @@ export const Skills = () => {
                         <p>Possessed many data skills thought my career<br></br>Still keep improving and learning every steps of the way</p>
                         <Carousel responsive={responsive} infinite={true} className="owl-carousel owl-theme skill-slider">
                             <div className="item">
-                                <img src={meter1} alt="Image" />
-                                <h5>Natural Language Processing</h5>
+                                <img src={skill1} alt="Image" />
                             </div>
                             <div className="item">
-                                <img src={meter2} alt="Image" />
-                                <h5>Computer Vision</h5>
+                                <img src={skill2} alt="Image" />
                             </div>
                             <div className="item">
-                                <img src={meter3} alt="Image" />
-                                <h5>Generative AI</h5>
+                                <img src={skill3} alt="Image" />
                             </div>
                             <div className="item">
-                                <img src={meter1} alt="Image" />
-                                <h5>Data Visualization</h5>
+                                <img src={skill4} alt="Image" />
+                            </div>
+                            <div className="item">
+                                <img src={skill5} alt="Image" />
                             </div>
                         </Carousel>
                     </div>

@@ -1,6 +1,6 @@
 import { Col } from "react-bootstrap";
 
-export const ProjectCard = ({ title, description, imgUrl, repoUrl }) => {
+export const ProjectCard = ({ title, category, site, imgUrl, repoUrl }) => {
   const handleClick = () => {
     if (repoUrl) {
       window.open(repoUrl, '_blank', 'noopener noreferrer');
@@ -10,7 +10,7 @@ export const ProjectCard = ({ title, description, imgUrl, repoUrl }) => {
   return (
     <Col size={12} sm={6} md={4}>
       <div 
-        className="proj-imgbx" 
+        className="project-card-container"
         onClick={handleClick}
         style={{ cursor: repoUrl ? 'pointer' : 'default' }}
         role="button"
@@ -21,10 +21,15 @@ export const ProjectCard = ({ title, description, imgUrl, repoUrl }) => {
           }
         }}
       >
-        <img src={imgUrl} alt={title} />
-        <div className="proj-txtx">
-          <h4>{title}</h4>
-          <span>{description}</span>
+        <div className="proj-imgbx">
+          <img src={imgUrl} alt={title} />
+          <div className="proj-txtx">
+            <h4>{category}</h4>
+            <span>- {site} -</span>
+          </div>
+        </div>
+        <div className="project-info">
+          <h5 className="project-title">{title}</h5>
         </div>
       </div>
     </Col>
