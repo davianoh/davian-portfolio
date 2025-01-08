@@ -7,9 +7,14 @@ import TrackVisibility from 'react-on-screen';
 
 import projImg1_informatics from "../assets/img/projects/its-informatika-building.jpg";
 import projImg1_computerScience from "../assets/img/projects/computer-science-end.png";
+import projImg1_ragKms from "../assets/img/projects/RAGonKMS.png";
 import projImg2_buzzerDetection from "../assets/img/projects/buzzer-detection.png";
 import projImg2_ocrPlate from "../assets/img/projects/OCR-plate.png";
 import projImg3_storeProfit from "../assets/img/projects/store-profit-visualization.png";
+import projImg3_crimeRate from "../assets/img/projects/LA-crimeRate.png";
+
+
+
 
 export const Projects = () => {
 
@@ -24,15 +29,16 @@ export const Projects = () => {
     {
       title: "Learning Paths on Computer Science Major",
       category: "Blog",
-      site: "medium", 
+      site: "Medium", 
       imgUrl: projImg1_computerScience,
       repoUrl: "https://medium.com/@davianoh/learning-paths-on-computer-science-major-701fdfb15ef1", 
     },
     {
-      title: "Data Project",
+      title: "Retrieval-Augmented Generation in Developing Knowledge Management Systems",
       category: "Blog",
       site: "Medium", 
-      imgUrl: projImg3,
+      imgUrl: projImg1_ragKms,
+      repoUrl: "https://medium.com/@davianoh/retrieval-augmented-generation-in-developing-knowledge-management-systems-6be7a4b14762", 
     },
     {
       title: "Data Project",
@@ -86,10 +92,11 @@ export const Projects = () => {
       repoUrl: "https://public.tableau.com/app/profile/davian.benito/viz/Overview-SuperStore/ExecutiveOverview", 
     },
     {
-      title: "Data Project",
-      category: "Blog",
-      site: "Medium", 
-      imgUrl: projImg3,
+      title: "Los Angeles Crime Data - Overview",
+      category: "Visualization",
+      site: "Tableau", 
+      imgUrl: projImg3_crimeRate,
+      repoUrl: "https://public.tableau.com/views/LosAngelesCrimeData-Overview2020-Present/Overview?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link", 
     },
     {
       title: "Data Project",
