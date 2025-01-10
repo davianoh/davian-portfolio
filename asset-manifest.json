@@ -1,8 +1,9 @@
 {
   "files": {
-    "main.css": "/davian-portfolio/static/css/main.be285131.css",
-    "main.js": "/davian-portfolio/static/js/main.cae61c40.js",
+    "main.css": "/davian-portfolio/static/css/main.175a8219.css",
+    "main.js": "/davian-portfolio/static/js/main.4e48a732.js",
     "static/js/453.a6c89bd1.chunk.js": "/davian-portfolio/static/js/453.a6c89bd1.chunk.js",
+    "static/media/banner-bg-workspace.png": "/davian-portfolio/static/media/banner-bg-workspace.c61de997a24df31bf9b7.png",
     "static/media/computer-science-end.png": "/davian-portfolio/static/media/computer-science-end.569373fdb9cf1c843af3.png",
     "static/media/color-sharp.png": "/davian-portfolio/static/media/color-sharp.bea361cfef80fefc2d1e.png",
     "static/media/color-sharp2.png": "/davian-portfolio/static/media/color-sharp2.c87586c6c2f549cb4aa6.png",
@@ -11,14 +12,12 @@
     "static/media/store-profit-visualization.png": "/davian-portfolio/static/media/store-profit-visualization.ae2011f0a1b74578f96e.png",
     "static/media/buzzer-detection.png": "/davian-portfolio/static/media/buzzer-detection.6e62329c92c9b33fe68a.png",
     "static/media/OCR-plate.png": "/davian-portfolio/static/media/OCR-plate.5b1f2b4e88a6da9355b7.png",
-    "static/media/banner-bg.png": "/davian-portfolio/static/media/banner-bg.cc1273af450504afe755.png",
     "static/media/header-img.svg": "/davian-portfolio/static/media/header-img.84bf93eb20488a753440bf83d27db7bb.svg",
     "static/media/its-informatika-building.jpg": "/davian-portfolio/static/media/its-informatika-building.a0350c3a551dd44175c9.jpg",
     "static/media/LA-crimeRate.png": "/davian-portfolio/static/media/LA-crimeRate.a7fc35528cd9586b19b3.png",
     "static/media/CentraNo2-Bold.ttf": "/davian-portfolio/static/media/CentraNo2-Bold.2faff7f7d3fc92a2fcd9.ttf",
     "static/media/CentraNo2-Medium.ttf": "/davian-portfolio/static/media/CentraNo2-Medium.f94be5b326d78bb32b95.ttf",
     "static/media/CentraNo2-Book.ttf": "/davian-portfolio/static/media/CentraNo2-Book.2b143fa4b734a3584043.ttf",
-    "static/media/footer-bg.png": "/davian-portfolio/static/media/footer-bg.7bd67c0f73571d0acc02.png",
     "static/media/project-img3.png": "/davian-portfolio/static/media/project-img3.675b30d2f975a1bc1d09.png",
     "static/media/contact-img.svg": "/davian-portfolio/static/media/contact-img.87eac2b29352fa01abb2f9510ef6ac7e.svg",
     "static/media/tableau.svg": "/davian-portfolio/static/media/tableau.33f144a36491184d10f2c1282ffb57cd.svg",
@@ -40,12 +39,12 @@
     "static/media/arrow2.svg": "/davian-portfolio/static/media/arrow2.3d9522b6fd8f2464b7200ebf2c1bb09a.svg",
     "static/media/arrow1.svg": "/davian-portfolio/static/media/arrow1.0c89b5b635adf255c2822c630aaa6ccf.svg",
     "static/media/nav-icon-x.svg": "/davian-portfolio/static/media/nav-icon-x.37b30c8af118fd1f4971d4e343b9ba0c.svg",
-    "main.be285131.css.map": "/davian-portfolio/static/css/main.be285131.css.map",
-    "main.cae61c40.js.map": "/davian-portfolio/static/js/main.cae61c40.js.map",
+    "main.175a8219.css.map": "/davian-portfolio/static/css/main.175a8219.css.map",
+    "main.4e48a732.js.map": "/davian-portfolio/static/js/main.4e48a732.js.map",
     "453.a6c89bd1.chunk.js.map": "/davian-portfolio/static/js/453.a6c89bd1.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.be285131.css",
-    "static/js/main.cae61c40.js"
+    "static/css/main.175a8219.css",
+    "static/js/main.4e48a732.js"
   ]
 }
