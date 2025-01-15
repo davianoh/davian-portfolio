@@ -1,7 +1,7 @@
 import { useState, useEffect } from "react";
 import { Container, Row, Col } from "react-bootstrap";
 import headerImg from "../assets/img/header-img.svg";
-import davImg from "../assets/img/davian-min.png";
+import davImg from "../assets/img/davian-portfolio-profile.png";
 import { FileEarmarkArrowDown } from 'react-bootstrap-icons';
 import 'animate.css';
 import TrackVisibility from 'react-on-screen';
@@ -59,7 +59,7 @@ export const Banner = () => {
                 <span className="tagline">HELLO !!</span>
                 <h1>{`I'm Davian Benito, `}<br /> <span className="txt-rotate" dataPeriod="1000" data-rotate='[ "Data Scientist", "Data Analyst", "AI Enthusiast" ]'><span className="wrap">{text}</span></span></h1>
                   <p>Data Enthusiast, passionate in working with data and gaining significant insight along the way. Really invested in the development of AI and its implementation across many fields of humanity</p>
-                  <button onClick={() => window.open(process.env.PUBLIC_URL + '/CV_Davian-Benito.pdf', '_blank')}>
+                  <button onClick={() => window.open(process.env.PUBLIC_URL + '/DavianBenito-CV.pdf', '_blank')}>
                     Download CV <FileEarmarkArrowDown size={25} />
                   </button>
                   

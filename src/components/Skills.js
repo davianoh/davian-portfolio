@@ -11,7 +11,8 @@ import skill1 from "../assets/img/skills/pytorch-ar21-white.svg";
 import skill2 from "../assets/img/skills/tensorflow-ar21-fix.svg";
 import skill3 from "../assets/img/skills/google_bigquery-ar21-fix.svg";
 import skill4 from "../assets/img/skills/tableau.svg";
-import skill5 from "../assets/img/skills/opencv-ar21-white.svg";
+import skill5 from "../assets/img/skills/ollama.svg";
+import skill6 from "../assets/img/skills/langchain.svg";
 
 
 export const Skills = () => {
@@ -63,6 +64,9 @@ export const Skills = () => {
                             </div>
                             <div className="item">
                                 <img src={skill5} alt="Image" />
+                            </div>
+                            <div className="item">
+                                <img src={skill6} alt="Image" />
                             </div>
                         </Carousel>
                     </div>
