@@ -1,19 +1,21 @@
 {
   "files": {
-    "main.css": "/davian-portfolio/static/css/main.175a8219.css",
-    "main.js": "/davian-portfolio/static/js/main.4e48a732.js",
+    "main.css": "/davian-portfolio/static/css/main.0a8f4227.css",
+    "main.js": "/davian-portfolio/static/js/main.1366d609.js",
     "static/js/453.a6c89bd1.chunk.js": "/davian-portfolio/static/js/453.a6c89bd1.chunk.js",
     "static/media/banner-bg-workspace.png": "/davian-portfolio/static/media/banner-bg-workspace.c61de997a24df31bf9b7.png",
     "static/media/computer-science-end.png": "/davian-portfolio/static/media/computer-science-end.569373fdb9cf1c843af3.png",
+    "static/media/davian-portfolio-profile.png": "/davian-portfolio/static/media/davian-portfolio-profile.402c75e6d7330453c86b.png",
     "static/media/color-sharp.png": "/davian-portfolio/static/media/color-sharp.bea361cfef80fefc2d1e.png",
     "static/media/color-sharp2.png": "/davian-portfolio/static/media/color-sharp2.c87586c6c2f549cb4aa6.png",
-    "static/media/davian-min.png": "/davian-portfolio/static/media/davian-min.2db289f02db81007c6e8.png",
     "static/media/RAGonKMS.png": "/davian-portfolio/static/media/RAGonKMS.7b7766e37f046dd4356b.png",
     "static/media/store-profit-visualization.png": "/davian-portfolio/static/media/store-profit-visualization.ae2011f0a1b74578f96e.png",
     "static/media/buzzer-detection.png": "/davian-portfolio/static/media/buzzer-detection.6e62329c92c9b33fe68a.png",
+    "static/media/Advanced-RAG.png": "/davian-portfolio/static/media/Advanced-RAG.005d473aba73dfb2619b.png",
     "static/media/OCR-plate.png": "/davian-portfolio/static/media/OCR-plate.5b1f2b4e88a6da9355b7.png",
     "static/media/header-img.svg": "/davian-portfolio/static/media/header-img.84bf93eb20488a753440bf83d27db7bb.svg",
     "static/media/its-informatika-building.jpg": "/davian-portfolio/static/media/its-informatika-building.a0350c3a551dd44175c9.jpg",
+    "static/media/ollama.svg": "/davian-portfolio/static/media/ollama.8c35a87c7e3186a35a6df1e727bc309c.svg",
     "static/media/LA-crimeRate.png": "/davian-portfolio/static/media/LA-crimeRate.a7fc35528cd9586b19b3.png",
     "static/media/CentraNo2-Bold.ttf": "/davian-portfolio/static/media/CentraNo2-Bold.2faff7f7d3fc92a2fcd9.ttf",
     "static/media/CentraNo2-Medium.ttf": "/davian-portfolio/static/media/CentraNo2-Medium.f94be5b326d78bb32b95.ttf",
@@ -24,9 +26,9 @@
     "static/media/revicons.eot": "/davian-portfolio/static/media/revicons.a77de540a38981833f9e.eot",
     "static/media/revicons.ttf": "/davian-portfolio/static/media/revicons.57fd05d4ae650374c8de.ttf",
     "static/media/google_bigquery-ar21-fix.svg": "/davian-portfolio/static/media/google_bigquery-ar21-fix.d21265bedd21fe24bb1bda3b7c315864.svg",
+    "static/media/langchain.svg": "/davian-portfolio/static/media/langchain.bd66fcbb93a8691673f4709ae6b736ab.svg",
     "static/media/tensorflow-ar21-fix.svg": "/davian-portfolio/static/media/tensorflow-ar21-fix.f4073756656f3ef7fc74db18562a0c70.svg",
     "static/media/revicons.woff": "/davian-portfolio/static/media/revicons.e8746a624ed098489406.woff",
-    "static/media/opencv-ar21-white.svg": "/davian-portfolio/static/media/opencv-ar21-white.37290a4add943acade8dadae6031d16d.svg",
     "static/media/PORTFOLIO.svg": "/davian-portfolio/static/media/PORTFOLIO.e265e9f93a97601ec45ad787c50f135c.svg",
     "static/media/meter2.svg": "/davian-portfolio/static/media/meter2.1b8f416eccd1ee162218b8528a1c5cdc.svg",
     "static/media/pytorch-ar21-white.svg": "/davian-portfolio/static/media/pytorch-ar21-white.b79f55bbbd4fcc33bd12a089819892d7.svg",
@@ -39,12 +41,12 @@
     "static/media/arrow2.svg": "/davian-portfolio/static/media/arrow2.3d9522b6fd8f2464b7200ebf2c1bb09a.svg",
     "static/media/arrow1.svg": "/davian-portfolio/static/media/arrow1.0c89b5b635adf255c2822c630aaa6ccf.svg",
     "static/media/nav-icon-x.svg": "/davian-portfolio/static/media/nav-icon-x.37b30c8af118fd1f4971d4e343b9ba0c.svg",
-    "main.175a8219.css.map": "/davian-portfolio/static/css/main.175a8219.css.map",
-    "main.4e48a732.js.map": "/davian-portfolio/static/js/main.4e48a732.js.map",
+    "main.0a8f4227.css.map": "/davian-portfolio/static/css/main.0a8f4227.css.map",
+    "main.1366d609.js.map": "/davian-portfolio/static/js/main.1366d609.js.map",
     "453.a6c89bd1.chunk.js.map": "/davian-portfolio/static/js/453.a6c89bd1.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.175a8219.css",
-    "static/js/main.4e48a732.js"
+    "static/css/main.0a8f4227.css",
+    "static/js/main.1366d609.js"
   ]
 }
